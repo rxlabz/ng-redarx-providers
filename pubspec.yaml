@@ -1,8 +1,8 @@
 name: redarx_angular
 description: A starting point for Dart libraries or applications.
 version: 0.0.1
-#author: Me <email@example.com>
-#homepage: https://www.example.com
+author: Me <email@example.com>
+homepage: https://github.com/
 
 environment:
   sdk: '>=1.0.0 <2.0.0'
@@ -10,8 +10,7 @@ environment:
 dependencies:
   angular2: ^2.2.0
   built_collection: ^1.2.0
-  redarx:
-      path: /Users/Me/projects/tools/redarx
+  redarx: ^0.6.0
 
 dev_dependencies:
   test: '>=0.12.0 <0.13.0'
